@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-
+*/node_modules
+/sanityyoutube/node_modules
 # testing
 /coverage
 
