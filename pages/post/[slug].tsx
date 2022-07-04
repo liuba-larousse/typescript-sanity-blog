@@ -159,8 +159,6 @@ function Post({ post }: Props) {
               className='shadow border rounded py-2 px-3 form-input mt-1 block-w-full  focus:outline-none focus:ring focus:ring-yellow-500'
               placeholder='Lila Lola'
               type='text'
-              name='name'
-              value={post.name}
             />
           </label>
           <label className='flex flex-col mb-5'>
