@@ -4,6 +4,7 @@ import PortableText from 'react-portable-text';
 import { useForm, SubmitHandler } from 'react-hook-form';
 import { useState } from 'react';
 import { Post } from '../../typings';
+import { GetStaticProps } from 'next/types';
 
 interface IFormInput {
   _id: string;
